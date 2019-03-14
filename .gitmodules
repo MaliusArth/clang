@@ -1,0 +1,3 @@
+[submodule "tools/extra"]
+	path = tools/extra
+	url = https://github.com/MaliusArth/clang-tools-extra.git
